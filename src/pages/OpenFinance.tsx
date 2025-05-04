@@ -49,7 +49,7 @@ const OpenFinance = () => {
           <div className="w-8 h-8 rounded-full bg-bank-teal flex items-center justify-center text-white font-bold">
             F
           </div>
-          <h1 className="ml-2 text-lg font-bold">Finverse</h1>
+          <h1 className="ml-2 text-lg font-bold">AIBANK</h1>
         </div>
       </div>
       
@@ -150,7 +150,7 @@ const OpenFinance = () => {
                   <ChevronRight size={20} />
                 </div>
                 <div className="w-12 h-12 rounded-lg flex items-center justify-center border border-gray-200 bg-bank-teal text-white">
-                  <span className="font-bold">AIBANK</span>
+                  <span className="font-bold">AB</span>
                 </div>
               </div>
               
@@ -177,7 +177,7 @@ const OpenFinance = () => {
               </div>
               
               <p className="text-gray-500 text-sm mb-8">
-                Ao autorizar, você permite que a Finverse acesse esses dados por 12 meses. Você pode revogar esta autorização a qualquer momento através do seu banco ou da Finverse.
+                Ao autorizar, você permite que a AIBANK acesse esses dados por 12 meses. Você pode revogar esta autorização a qualquer momento através do seu banco ou da AIBANK.
               </p>
               
               <Button
@@ -199,7 +199,7 @@ const OpenFinance = () => {
               <h2 className="text-2xl font-bold mb-3">Autorização concluída!</h2>
               
               <p className="text-gray-600 mb-8">
-                Seus dados bancários foram conectados com sucesso. Agora você pode acessar todos os recursos da Finverse.
+                Seus dados bancários foram conectados com sucesso. Agora você pode acessar todos os recursos da AIBANK.
               </p>
               
               <Button

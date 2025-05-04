@@ -13,7 +13,7 @@ const Home = () => {
             <div className="w-10 h-10 rounded-full bg-bank-teal flex items-center justify-center text-white font-bold text-xl">
               F
             </div>
-            <h1 className="ml-3 text-2xl font-bold">Finverse</h1>
+            <h1 className="ml-3 text-2xl font-bold">AIBANK</h1>
           </div>
           <div className="hidden md:flex items-center space-x-8">
             <a href="#features" className="text-gray-600 hover:text-bank-teal transition-colors">
@@ -68,7 +68,7 @@ const Home = () => {
                         <h3 className="text-xl font-bold">R$ 10.000,00</h3>
                       </div>
                       <div className="w-8 h-8 rounded-full bg-white/20 flex items-center justify-center">
-                        <span className="font-bold text-xs">AIVANK</span>
+                        <span className="font-bold text-xs">AB</span>
                       </div>
                     </div>
                   </div>
@@ -101,7 +101,7 @@ const Home = () => {
         <div className="container mx-auto max-w-6xl">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              Por que escolher a Finverse?
+              Por que escolher a AIBANK?
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               Nossa plataforma integra o poder do OpenFinance com a simplicidade de uma experiência bancária moderna
@@ -153,7 +153,7 @@ const Home = () => {
               Como funciona
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Comece a usar o Finverse em apenas 3 passos simples
+              Comece a usar o AIBANBK em apenas 3 passos simples
             </p>
           </div>
           
@@ -230,11 +230,11 @@ const Home = () => {
             <div className="w-10 h-10 rounded-full bg-white flex items-center justify-center text-bank-teal font-bold text-xl">
               F
             </div>
-            <h1 className="ml-3 text-xl font-bold">Finverse</h1>
+            <h1 className="ml-3 text-xl font-bold">AIBANK</h1>
           </div>
           
           <div className="text-center text-gray-400 text-sm">
-            <p>© 2023 Finverse. Todos os direitos reservados.</p>
+            <p>© 2023 AIBANK. Todos os direitos reservados.</p>
             <p className="mt-2">
               Este é um projeto demonstrativo. Não é um banco real.
             </p>
