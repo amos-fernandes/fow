@@ -150,7 +150,7 @@ const OpenFinance = () => {
                   <ChevronRight size={20} />
                 </div>
                 <div className="w-12 h-12 rounded-lg flex items-center justify-center border border-gray-200 bg-bank-teal text-white">
-                  <span className="font-bold">F</span>
+                  <span className="font-bold">AIBANK</span>
                 </div>
               </div>
               

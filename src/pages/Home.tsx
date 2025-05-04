@@ -68,7 +68,7 @@ const Home = () => {
                         <h3 className="text-xl font-bold">R$ 10.000,00</h3>
                       </div>
                       <div className="w-8 h-8 rounded-full bg-white/20 flex items-center justify-center">
-                        <span className="font-bold text-xs">F</span>
+                        <span className="font-bold text-xs">AIVANK</span>
                       </div>
                     </div>
                   </div>
