@@ -71,7 +71,7 @@ const AppNav: React.FC = () => {
             <div className="w-10 h-10 rounded-full bg-bank-teal flex items-center justify-center text-white font-bold text-xl">
               F
             </div>
-            <h1 className="ml-3 text-xl font-bold">Finverse</h1>
+            <h1 className="ml-3 text-xl font-bold">AIBANK</h1>
           </div>
           
           <ul className="space-y-2">
@@ -161,7 +161,7 @@ const AppNav: React.FC = () => {
             <div className="w-8 h-8 rounded-full bg-bank-teal flex items-center justify-center text-white font-bold">
               F
             </div>
-            <h1 className="ml-2 text-lg font-bold">Finverse</h1>
+            <h1 className="ml-2 text-lg font-bold">AIBANK</h1>
           </div>
           <button
             onClick={() => setIsMenuOpen(!isMenuOpen)}
