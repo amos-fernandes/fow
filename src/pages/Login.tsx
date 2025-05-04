@@ -45,7 +45,7 @@ const Login = () => {
         <Link to="/" className="inline-block">
           <div className="flex items-center">
             <div className="w-8 h-8 rounded-full bg-white flex items-center justify-center text-bank-teal font-bold text-xl">
-              F
+              AIBANK
             </div>
             <h1 className="ml-2 text-xl font-bold">AIBANK</h1>
           </div>
